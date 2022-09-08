@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\домашка 5\2zadacha\bin\Debug\net6.0\2zadacha.exe
+C:\Users\HP\Desktop\домашка 5\2zadacha\bin\Debug\net6.0\2zadacha.deps.json
+C:\Users\HP\Desktop\домашка 5\2zadacha\bin\Debug\net6.0\2zadacha.runtimeconfig.json
+C:\Users\HP\Desktop\домашка 5\2zadacha\bin\Debug\net6.0\2zadacha.dll
+C:\Users\HP\Desktop\домашка 5\2zadacha\bin\Debug\net6.0\2zadacha.pdb
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.AssemblyInfo.cs
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.dll
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\refint\2zadacha.dll
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.pdb
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\2zadacha.genruntimeconfig.cache
+C:\Users\HP\Desktop\домашка 5\2zadacha\obj\Debug\net6.0\ref\2zadacha.dll
